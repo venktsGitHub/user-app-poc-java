@@ -1,0 +1,4 @@
+com\example\main\model\Student.class
+com\example\main\repository\StudentRepository.class
+com\example\main\SecurityPracticeSpring1Application.class
+com\example\main\controller\StudentController.class
